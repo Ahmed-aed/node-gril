@@ -1,0 +1,19 @@
+{
+  "name": "refactor-node-girls-ws",
+  "version": "1.0.0",
+  "description": "<img src=\"readme-images/logo.png\" alt=\"node-girls-logo\" styles=\"text-align:center;\" />",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-7/refactor-node-girls-ws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-7/refactor-node-girls-ws/issues"
+  },
+  "homepage": "https://github.com/ali-7/refactor-node-girls-ws#readme"
+}
